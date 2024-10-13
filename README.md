@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning new skills in software development and exploring different areas of tech.
 - 💞️ I’m looking to collaborate on exciting projects and innovative ideas.
 - 📫 How to reach me; Feel free to email me at srinithisuja@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love combining creativity with technology to build cool things!
 
 <!---
